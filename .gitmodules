@@ -1,0 +1,3 @@
+[submodule "2015-06-elections-partystrengths"]
+	path = data/2015-06-elections-partystrengths
+	url = https://github.com/srfdata/2015-06-elections-partystrengths
